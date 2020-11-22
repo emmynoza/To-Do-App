@@ -1,2 +1,8 @@
 # To Do App
- An easy, task list for me to practice my skills
+
+ Takes your input and creates a task to accomplish. 
+ 
+ ## Future Updates:
+ * have a more responsive layout
+ * design revamp
+ * implement an edit task option
